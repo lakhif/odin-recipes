@@ -1,0 +1,37 @@
+.main-header {
+  text-align: center;
+  text-decoration: underline;
+  color: orange;
+}
+
+nav {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.hero-image {
+  display: block;
+  margin: 0 auto;
+}
+
+.description {
+  font-family: sans-serif;
+  text-decoration: underline;
+  text-align: center;
+  color: orangered;
+}
+
+.desc-para {
+  text-align: center;
+  font-style: italic;
+  font-size: 20px;
+}
+
+.ingredients {
+  color: blueviolet;
+  text-decoration: underline;
+  font-family: arial;
+}
+li {
+  color: rgba(99, 92, 81, 0.808);
+}
